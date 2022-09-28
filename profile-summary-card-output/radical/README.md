@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/hoho4190/hoho4190/main/profile-summary-card-output/radical/4-productive-time.svg)
-```
-
-    
