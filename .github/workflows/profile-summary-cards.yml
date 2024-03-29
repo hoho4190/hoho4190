@@ -1,21 +1,22 @@
-name: GitHub-Profile-Summary-Cards
+name: Profile Summary Cards
 
 on:
-  create:
-  push:
   schedule:
     - cron: "0 21 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  card-update:
+    name: Card update 
+    
     runs-on: ubuntu-latest
-    name: generate
 
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@main
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
