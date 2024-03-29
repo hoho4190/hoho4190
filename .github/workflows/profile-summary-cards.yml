@@ -1,4 +1,4 @@
-name: Profile Summary Cards
+name: 📊 Profile Summary Cards
 
 on:
   schedule:
@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  card-update:
-    name: Card update 
+  summary-card-update:
+    name: Summary card update 
     
     runs-on: ubuntu-latest
 
