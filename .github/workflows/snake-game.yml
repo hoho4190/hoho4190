@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:          
-  snake-animation:
-    name: Snake animation
+  snake-update:
+    name: Snake update
 
     runs-on: ubuntu-latest
 
