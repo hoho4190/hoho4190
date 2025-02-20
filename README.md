@@ -1,6 +1,7 @@
 
 <div align=center>
 
+  <!--
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -32,5 +33,10 @@
       src="https://raw.githubusercontent.com/hoho4190/hoho4190/main/profile-summary-card-output/github/2-most-commit-language.svg"
     />
   </picture>
+  -->
+
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/hoho4190" width="600"/>
+  </a>
 
 </div>
