@@ -68,7 +68,7 @@
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoho4190)](https://solved.ac/hoho4190)
 
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/hoho4190" width="600"/>
+    <img src="https://render.gitanimals.org/farms/hoho4190" width="684"/>
   </a>
 
 </div>
