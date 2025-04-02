@@ -4,17 +4,6 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/hoho4190/hoho4190/main/profile-summary-card-output/github_dark/0-profile-details.svg"
-    />
-    <img
-      alt="profile summary card"
-      src="https://raw.githubusercontent.com/hoho4190/hoho4190/main/profile-summary-card-output/github/0-profile-details.svg"
-    />
-  </picture>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/hoho4190/hoho4190/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
     />
     <img
@@ -34,7 +23,7 @@
   </picture>
 
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/hoho4190" width="600"/>
+    <img src="https://render.gitanimals.org/farms/hoho4190" width="684"/>
   </a>
 
 </div>
